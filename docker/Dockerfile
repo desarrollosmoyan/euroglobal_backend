@@ -1,7 +1,7 @@
 ARG BUILD_ENV="local"
 ARG WWWUSER="www-data"
 ARG WWWGROUP="www-data"
-ARG NODE_VERSION=16
+ARG NODE_VERSION=18
 ARG PROJECT_LOCATION="/var/www/html"
 
 ########################
